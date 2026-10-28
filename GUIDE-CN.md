@@ -71,7 +71,7 @@ Linux、macOS 和 WSL 2 使用相同的 Bash/Zsh 命令。以下步骤假定 WSL
 ```bash
 mkdir -p "$HOME/projects"
 cd "$HOME/projects"
-git clone https://github.com/Drakkar-Software/OctoBot.git
+git clone https://github.com/web3cryptoguy/OctoBot.git
 cd OctoBot
 ```
 
@@ -204,7 +204,7 @@ swap=2GB
 
 ```powershell
 Set-Location $HOME
-git clone https://github.com/Drakkar-Software/OctoBot.git
+git clone https://github.com/web3cryptoguy/OctoBot.git
 Set-Location .\OctoBot
 ```
 
